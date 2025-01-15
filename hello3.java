@@ -3,6 +3,6 @@ class hello3
 {
     public static void main(String[] args)
     {
-        System.out.println("My Second Java Program.course of Devops");
+        System.out.println("My Second Jav");
     }
 }
